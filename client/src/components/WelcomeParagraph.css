@@ -1,0 +1,31 @@
+                                /* NAVBAR */
+.hoverHighlight {
+    font-size: 20px;
+    text-align: center;
+}
+
+.hoverHighlight:hover {
+    transition: 0.5s;
+    color: white;
+}
+
+                                /* WELCOME PARAGRAPH */
+.borderWelcome {
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    border-bottom: solid;
+    border-color:rgb(0, 77, 51);
+}
+.titleBackground {
+    background-color: rgb(0, 102, 68);
+    color:rgb(255, 255, 255);
+}
+.borderDirections {
+    border-top: solid;
+    border-color:rgb(0, 77, 51);
+}
+
+.submissionColors {
+    background-color: rgb(27, 99, 99);
+}
